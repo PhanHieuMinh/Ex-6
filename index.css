@@ -1,11 +1,11 @@
 h1{
     background-color:lightgray;
-    
+    width: 40px;
     
 }
-.red{
+.red h1{
     color: red;
 }
-.special{
+.special h1{
     font-size: 30px;
 }
